@@ -1,1 +1,1 @@
-# multi-layer-neuralnet
+# multi-layer-neural-net
